@@ -7,6 +7,9 @@ This dataset consists of 4014 customers' data. The Customer ID, Name, Surname, G
 In this project, the customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people. The link to the visualization created in this project, using Tableau, is: https://public.tableau.com/views/Story1_16811209590130/BankCustomerAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 The following are the key takeaways:
-* fejfekjfkef
+* England is mostly represented by white collar workers(70%). Male and female customers are almost equally distributed and most of them are in their 30s. 
+* Customers of Scotland are predominantly men in their late 40s and early 50s.  Representation of white color workers is low.
+* Northern Ireland is mostly represented by females in their late 20s and early 30s. 
+* Wales shows an above average representation of mid-sized balance. Male and female customers are almost equally distributed and most of them are in their 30s. 
 
 
