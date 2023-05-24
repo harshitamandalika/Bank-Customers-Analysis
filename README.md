@@ -15,6 +15,4 @@ The following are the key takeaways:
 * Wales shows an above average representation of mid-sized balance. Male and female customers are almost equally distributed and most of them are in their 30s. 
 * Except for Wales, as the balance amount in the bank increases, a gradual decrease in the number of customers can be observed. A large percentage of the customers seem to have a balance below $60,000. 
 
-Therefore, this visualization helps in targeting the potential customers by 
-
-
+Therefore, this visualization helps in targeting the potential customers in a given region. From the information gained through the analysis, appropriate ways can be designed to attract people of different ages, gender, and having different types of jobs and belonging to various regions.
