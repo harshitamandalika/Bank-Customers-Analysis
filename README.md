@@ -13,5 +13,8 @@ The following are the key takeaways:
 * Customers of Scotland are predominantly men in their late 40s and early 50s.  Representation of white color workers is low.
 * Northern Ireland is mostly represented by females in their late 20s and early 30s. 
 * Wales shows an above average representation of mid-sized balance. Male and female customers are almost equally distributed and most of them are in their 30s. 
+* Except for Wales, as the balance amount in the bank increases, a gradual decrease in the number of customers can be observed. A large percentage of the customers seem to have a balance below $60,000. 
+
+Therefore, this visualization helps in targeting the potential customers by 
 
 
